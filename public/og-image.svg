@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#172B36"/>
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#114C5A" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#172B36" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="80%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#FFC801" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#172B36" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <text x="600" y="260" font-family="monospace" font-size="72" font-weight="700" fill="#F1F6F4" text-anchor="middle">NeuralFlow</text>
+  <text x="600" y="340" font-family="monospace" font-size="28" fill="#FFC801" text-anchor="middle">Next-Gen AI Data Automation</text>
+  <text x="600" y="400" font-family="sans-serif" font-size="20" fill="rgba(217,232,226,0.6)" text-anchor="middle">Build faster. Scale smarter.</text>
+</svg>
