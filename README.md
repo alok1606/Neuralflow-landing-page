@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-https://neuralflow-landing-page-nh9od5wbt-salok3191-2013s-projects.vercel.app/
+https://neuralflow-landing-page-hg253iex7-salok3191-2013s-projects.vercel.app/
 
 ## 📁 Repository
 
