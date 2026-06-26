@@ -22,7 +22,7 @@ https://github.com/alok1606/Neuralflow-landing-page
 | Styling | **Tailwind CSS 3** + custom CSS variables |
 | Fonts | **Inter** + **JetBrains Mono** (via `next/font`) |
 | Animations | Native CSS Transitions & `@keyframes` only |
-| Deployment | Vercel / Netlify |
+| Deployment | Vercel |
 
 ---
 
